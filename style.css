@@ -1,0 +1,21 @@
+.grid { 
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width:600px;
+    margin: 0 auto;
+    margin-top: 130px;
+
+}
+html{
+    background:pink;
+}
+
+h3{
+    color: white;
+    font-size: 25px;
+    border: 1px solid none;
+    width:160px;
+    text-align: center;
+    background:  black;
+}
